@@ -3,7 +3,7 @@ MAINTAINER ParkJooHyeon <www.jrr.kr@gmail.com>
 
 
 ENV \
-    PYTHON_VERSION="3.6.3"
+    PYTHON_VERSION="3.6.4"
 
 
 RUN \
