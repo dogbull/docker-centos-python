@@ -1,2 +1,2 @@
-docker build -t dogbull/centos-python $1 && \
-docker push dogbull/centos-python
+docker build -t epinet/python $1 && \
+docker push epinet/python
